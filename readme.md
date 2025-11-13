@@ -1,4 +1,4 @@
-Dit is een GitHub repository voor test doeleinden. 
+Dit is een GitHub repository voor test doeleinden.
 
 1. Kloon de repo naar je laptop.
 2. Maak lokaal een nieuw bestand index.html en voeg wat tekst toe
